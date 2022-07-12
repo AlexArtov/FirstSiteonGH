@@ -1,0 +1,19 @@
+.about {
+    margin: 0;
+    padding: 0;
+    align-items: flex-start;
+}
+
+.myphoto {
+    margin: 20px;
+    width: 200px;
+}
+.myphoto img {
+    margin: 0px;
+    padding: 0;
+    width: 200px;
+}
+ 
+.tableofskills {
+    margin: 0px;
+}
